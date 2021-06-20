@@ -5,10 +5,15 @@
 ```https://capacitorjs.com/docs/guides/push-notifications-firebase```
 
 
-## Paquetes requeridos:
+## Packages required:
 
 
-``` npm install @ionic-native/fcm ``
+``` npm install @capacitor/push-notifications ``
 
+## Solution for capacitor 3
+
+#### https://capacitorjs.com/docs/updating/3-0#switch-to-automatic-android-plugin-loading 
+
+Remove from Main Activity Loading plugins
 
 #### By: Armando Rojas <rojasarmando260@gmail.com>
