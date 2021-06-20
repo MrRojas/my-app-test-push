@@ -1,0 +1,7 @@
+{
+  "name": "my-app-test-push",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
