@@ -8,7 +8,7 @@
 ## Packages required:
 
 
-``` npm install @capacitor/push-notifications ``
+``` npm install @capacitor/push-notifications ```
 
 ## Solution for capacitor 3
 
